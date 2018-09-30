@@ -8,7 +8,7 @@ import com.crm.base.Base;
 
 public class LoginPage extends Base {
 	
-	//Object Respository or Page factory
+	//Object Respository
 
 	@FindBy(name="username")
 	WebElement username;
